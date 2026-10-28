@@ -95,7 +95,7 @@ const classData = [
             { name: "Fadil Irfansah", link: "https://www.instagram.com/dilzzsopspoken?stkn=MXV3NHkzZWc5YTQ3YQ==" },
             { name: "Fatihin", link: "https://www.instagram.com/f4th1n_08?stkn=MW91YW5ucWRhaXV0aw==" },
             { name: "Finza Okta Firnanda", link: "" },
-            { name: "Fuat Zaky Azzahran", link: "" },
+            { name: "Fuat Zaky Azzahran", link: "https://www.instagram.com/jyzh556?utm_source=qr&xtok=b3Z5aTU2Y2FlcmE2" },
             { name: "Hafis Zandika Pratama", link: "" },
             { name: "Hikmal Lingga Devanda", link: "" },
             { name: "Kevin Valensia Pratama", link: "" },
